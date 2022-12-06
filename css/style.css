@@ -1,0 +1,29 @@
+/* Reset */
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* Generics */
+
+body{
+font-family: sans-serif;
+}
+
+/* Ticket */
+
+.ticket{
+background-color: red;
+height: 600px;
+width: 1000px;
+margin: 0 auto;
+border: 1px solid black;
+border-radius: 30px;
+margin-top: 100px;
+}
+
+.final{
+display: none;
+}
